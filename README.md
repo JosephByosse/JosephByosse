@@ -1,4 +1,11 @@
-<h1>Hi, I'm Joseph Byosse! <br/><a href="https://github.com/JosephByosse">Programmer</a>, <a href="https://www.linkedin.com/in/JosephByosse/">IT Professional</a>
+<h1>Hi, I'm Joseph Byosse! <br/><a href="https://github.com/JosephByosse">Programmer</a>, <a href="https://www.linkedin.com/in/JosephByosse/">IT Professional</a> </h1>
+
+Here are some fun facts about me
+
+- I am 6'2
+- I prefer comedies over tragedies
+- I don't like meatball sub, watermelon, and strawberry milk
+- My hobbies include: Reading, Gym, Gaming, Guitar, Home Labbing, and Cooking
 
 <h2>👨‍💻Virtual Machines and Projects:</h2>
 

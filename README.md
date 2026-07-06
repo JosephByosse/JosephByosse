@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joseph Byosse! <br/><a href="https://github.com/JosephByosse">Programmer</a>, <a href="https://www.linkedin.com/in/JosephByosse/">IT Professional</a> </h1>
 
-I am a IT and CS based in the Louisville, KY area. I love exploring new technologies and systems. If I see something interesting, I go on a homelab or virtual machine and mess around with it.
+I am a IT and CS student based in the Louisville, KY area. I love exploring new technologies and systems. If I see something interesting, I go on a homelab or virtual machine and mess around with it.
 
 I am getting my Associates in Science at Jefferson Community and Technical College (Dec 2027). I plan to transfer to the University of Louisville to get my Bachelors in Computer Engineering and Science (Dec 2030)!
 

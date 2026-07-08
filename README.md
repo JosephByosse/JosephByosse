@@ -14,6 +14,8 @@ Here are some fun facts about me
 
 - <b>Oracle VirtualBox, Windows Server 2016, and Active Directory </b>
   - [Active Directory through Windows Server 2016 in VirtualBox](https://github.com/JosephByosse/Active-Directory-with-Windows-Server-2016-through-Oracle-Virtual-Box) <b><i>(WIP)</b></i>
+- <b> Linux in Virtual Machines Experiments </b>
+  - [Experimenting with Ubuntu 24.04 LTS Linux in VirtualBox](https://github.com/JosephByosse/Ubuntu-24.04-LTS-Linux-Virtual-Machine-Experiments-)<b><i>(WIP)</b></i>
 - <b>Ticketing System</b>
   - [Learning Ticketing Systems](https://github.com/JosephByosse/Learning-Ticket-Systems) <b><i>(WIP)</b></i>
 
